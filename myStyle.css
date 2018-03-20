@@ -1,0 +1,24 @@
+h1 {
+	color: #f7f7f7;
+}
+
+body {
+	background-color: #3b5998;
+	color: #dfe3ee;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 110%;
+}
+
+ul {
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: #8b9dc3;
+}
+
+.attention {
+	font-style: italic;
+	color: #e69598;
+}
